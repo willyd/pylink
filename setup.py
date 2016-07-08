@@ -8,4 +8,5 @@ setup(name='pylink',
               'link = link:link_cli'
               ]
           },
+      install_requires=['click', 'pywin32'],
       )
